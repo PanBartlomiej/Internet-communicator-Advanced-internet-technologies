@@ -1,0 +1,2 @@
+2023-05-25T23:23:32.984477800 - Method: save, Entity: pl.Komunikator.znajomi.Znajomi@6b449a70
+2023-05-25T23:26:42.748099200 - Nowi znajomi! : Bartek i Bartek
